@@ -2,1372 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f4b148c-3164-4add-8ce9-cc6f7f4e57f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/CircularArrayLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/ContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/ContainsDuplicateII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/ContainsDuplicateIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/ContiguousArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/CreateMaximumNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/DiagonalTraverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/FindDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/FindKClosestElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/FindKPairswithSmallestSums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/FindK_th_Smallest_inLexicographicalOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/FindMaxAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/FindMaxConsecutiveOnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/FindMedianfromDataStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/FindMinimuminRotatedSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/FindMinimuminRotatedSortedArrayII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/FirstMissingPositive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/FlipAndInvertImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/FrequencySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/GameofLife.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/ImageOverlap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/ImageSmoother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/KthSmallestElementinaSortedMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/LargestDivisibleSubset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/LongestIncreasingPathinaMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/LongestMountaininArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/MagicSquaresInGrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/Matrix01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/MaxChunksToMakeSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/MaxChunksToMakeSortedII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/MonotoneIncreasingDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/MonotonicArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/MountainArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/MoveArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/MoveZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/NRepeatedElementinSize2NArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/NondecreasingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/NumberofLinesToWriteString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/PatchingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/RemoveDuplicatesfromSortedArrayII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/ReshapeTheMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/Rotate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/ScoreAfterFlippingMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/Searcha2DMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/Searcha2DMatrixII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/SearchinRotatedSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/SearchinRotatedSortedArrayII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/SelfCrossing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/SetMatrixZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/SetMismatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/SingleElementinaSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/SmallestRangeI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/SmallestRangeII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/SortArrayByParity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/SortArrayByParityII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/SortColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/SpiralMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/SpiralMatrixII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/SpiralMatrixIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/SplitNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/ToeplitzMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/TransposeMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/TwoSumII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/ValidMountainArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/WalkingRobot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/WalkingRobotSimulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Array/ZigZagPrintMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BFS/FloodFill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BFS/Maze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BackTracking/BeautifulArrangement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BackTracking/JumpGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BackTracking/LetterCombinationsofaPhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BackTracking/NQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BackTracking/NQueensII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BackTracking/PalindromePartitioning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BackTracking/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BackTracking/PermutationsII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BackTracking/RemoveInvalidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BackTracking/SubSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BackTracking/SubsetsII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BackTracking/WordSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BackTracking/WordSearchII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BinarySearch/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BinarySearch/BinarySearchTreeIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BinarySearch/FindPeakElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BinarySearch/FindSmallestLetterGreaterThanTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BinarySearch/GuessNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BinarySearch/SearchRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BinarySearch/SmallestGoodBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BitOperation/AddBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BitOperation/BItCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BitOperation/BitSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BitOperation/BytesUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BitOperation/CountBinarySubstrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BitOperation/CountPrimeSetBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BitOperation/FindTheDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BitOperation/HammingDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BitOperation/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BitOperation/NumberComplement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BitOperation/RangeBitwiseAnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BitOperation/SumOfTwoIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BitOperation/UTF_8Validation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/BitOperation/XOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Combination/CombinationSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Combination/CombinationSumII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Combination/CombinationSumIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Combination/CombinationSumIV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Combination/Combinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Combination/PartitionEqualSubsetSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Combination/PartitiontoKEqualSumSubsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Concurrent/ConcurrentCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/AllPathsFromSourcetoTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/CanIWin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/CatandMouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/ContainVirus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/DifferentWaystoAddParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/ExpressionAddOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/FindEventualSafeStates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/HamiltonianCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/IncreasingSubsequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/InterleavingString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/IslandPerimeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/KeysandRooms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/LexicographicalNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/LoudandRich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/MatchstickstoSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/MaxAreaofIsland.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/Minesweeper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/MinimumFallingPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/MiningGold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/NumberofIslands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/NumbersWithSameConsecutiveDifferences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/PathInTheMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/ProfitableSchemes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/RemoveBoxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/SecondMinimumNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/ShoppingOffers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/ShortestBridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/SoupServings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/StickerstoSpellWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/StrangePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/SubstringwithConcatenationofAllWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/SudokuSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/Sum3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/Sum4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/SumofDistancesinTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/SurroundedRegions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/SwiminRisingWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/Tile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/TriangleDynamic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DFS/ValidParenthesisString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DesignProblems/DesignCircularDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DesignProblems/DesignCircularDeque2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DesignProblems/DesignCircularQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DesignProblems/DoubleCircleList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DesignProblems/EncodeandDecodeTinyURL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DesignProblems/LFUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DesignProblems/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DesignProblems/LRUCache2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DesignProblems/LRUCache3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DesignProblems/PeekingIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DesignProblems/TestLimited.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DesignProblems/TestLimited2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DesignProblems/Twitter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DesignProblems/WordDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/ArithmeticSlices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/BestTimetoBuyandSellStockIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/BestTimetoBuyandSellStockIV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/BestTimetoBuyandSellStockwithCooldown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/BestTimetoBuyandSellStockwithTransactionFee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/BurstBalloons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/Candy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/CoinChange2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/ConcatenatedWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/CutPod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/DecodeWays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/DecodeWaysII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/DegreeOfAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/DominoandTrominoTiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/EditDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/Fib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/FlipStringtoMonotoneIncreasing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/GetMostGifts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/GroupsofSpecialEquivalentStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/GuessNumberHigherorLowerII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/Heaters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/HouseRobber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/HouseRobberII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/HouseRobberIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/InsertInterval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/IntegerBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/IntegerReplacement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/Isomorphic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/KInversePairsArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/Knapsack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/LargestRectangleinHistogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/LargestSumofAverages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/LengthofLongestFibonacciSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/LongestCommonSubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/LongestCommonSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/LongestIncreasingSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/LongestTurbulentSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/LongestValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/MaxIncreasetoKeepCitySkyline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/MaxSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/MaximalRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/MaximalSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/MaximizeDistancetoClosestPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/MaximumLengthofPairChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/MaximumLengthofRepeatedSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/MaximumProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/MaximumProductSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/MaximumSumCircularSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/MinCostClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/MinimumPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/NumberofLongestIncreasingSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/NumberofSubarrayswithBoundedMaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/OnesandZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/PaintHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/PaintHouseII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/PalindromePartitioningII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/Palindrome_min_insert_char.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/PalindromicLongestSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/PalindromicSubstrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/PartitionArrayintoDisjointIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/PartitionLabels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/Pascal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/PerfectSquares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/PermutationSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/ProductofArrayExceptSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/RegularExpressionMatching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/ShortestUnsortedContinuousSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/SumofSubsequenceWidths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/TallestBillboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/TargetSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/TrappingRainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/UniqueBinarySearchTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/UniquePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/UniquePathsII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/UniqueSubstringsinWraparoundString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/WiggleSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/WildcardMatching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/WordLadderII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Encoding/Base64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Encoding/Base7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Encoding/BaseballGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Encoding/GrayCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Geometry/ConstructtheRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Geometry/GenerateRandomPointinaCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Geometry/GeoPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Geometry/LargestPerimeterTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Geometry/LargestTriangleArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Geometry/MinimumAreaRectangleII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Geometry/PerfectRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Geometry/ProjectionArea3DShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Geometry/RectangleArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Geometry/RectangleOverlap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Geometry/RegionsCutBySlashes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Geometry/SurfaceAreaof3DShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Geometry/ValidSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Geometry/ValidTriangleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/GraphA/CloneGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/GraphA/CourseSchedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/GraphA/CourseScheduleII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/GraphA/CourseScheduleIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/GraphA/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/GraphA/IsGraphBipartite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/GraphA/MinimizeMalwareSpreadII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/GraphA/MinimumHeightTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/GraphA/MinimumHeightTrees2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/GraphA/NetworkDelayTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/GraphA/PossibleBipartition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/GraphA/ReachableNodesInSubdividedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/GraphA/ShortestPathVisitingAllNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Greedy/AssignCookies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Greedy/BagofTokens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Greedy/BattleshipsinaBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Greedy/BestTimetoBuyandSellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Greedy/BestTimetoBuyandSellStockII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Greedy/BoatstoSavePeople.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Greedy/ContainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Greedy/GasStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Greedy/JumpGameII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Greedy/LongestConsecutiveSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Greedy/LongestContinuousIncreasingSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Greedy/MaximumGap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Greedy/MinimumAddtoMakeParenthesesValid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Greedy/MinimumIncrementtoMakeArrayUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Greedy/MinimumNumberofArrowstoBurstBalloons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Greedy/NonnegativeIntegerswithoutConsecutiveOnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Greedy/NonoverlappingIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Greedy/PivotIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Greedy/RangeAdditionII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Greedy/TeemoAttacking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Hash/ArrayPairSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Hash/CalculateConflictRate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Hash/CalculateConflictRate2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Hash/ConsistentHash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Hash/HashFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Hash/HashFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Hash/ShortestCompletingWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Hash/SimHash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Hash/SipHashTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Hash/SipHash_2_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/ArithmeticSlicesIISubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/ArrayofDoubledPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/BrickWall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/ContinuousSubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/DistributeCandies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/EmployeeImportance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/ExamRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/FirstUniqChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/FractiontoRecurringDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/GuesstheWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/HappyNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/IntersectionofTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/KSimilarStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/KdiffPairsinanArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/LengthOfLongestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/LongestHarmoniousSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/LongestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/MaxPointsonaLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/MaximumProductofWordLengths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/MeetingRoomsII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/Meetingrooms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/MinimumIndexSumofTwoLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/MostCommonWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/MostProfitAssigningWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/MyCalendarI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/MyCalendarII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/MyCalendarIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/MyHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/MyHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/NextGreaterElementI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/NextGreaterElementII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/NextGreaterElementIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/NumberofAtoms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/NumberofBoomerangs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/NumberofMatchingSubsequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/PalindromePairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/RabbitsinForest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/SubarraySumEqualsK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/TopKFrequent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/TopKFrequentElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/TopVotedCandidate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/TopVotedCandidate2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/WordPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/numJewelsInStones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/HashMap/subdomainVisits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Heap/BinaryHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Heap/MinHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/LengthEncoding/ExpressiveWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/LengthEncoding/ExpressiveWordsII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/LinkedList/CopyRandomListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/LinkedList/DeleteDuplicateNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/LinkedList/FindFirstCommonNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/LinkedList/LinkListBubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/LinkedList/LinkedListComponents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/LinkedList/LinkedListRandomNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/LinkedList/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/LinkedList/MergeKLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/LinkedList/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/LinkedList/ReverseNodesinkGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/LinkedList/SplitListToParts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/MajorityVote/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/MajorityVote/MajorityElementII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/AddDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/AddOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/AddStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/AdditiveNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/ArrangingCoins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/BasicCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/BasicCalculatorII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/BeautifulArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/BulbSwitcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/BulbSwitcherII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/BullsandCows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/CanPlaceFlowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/ComplexNumberMultiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/ConcatString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/ConsecutiveNumbersSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/CountAndSay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/CountNumberswithUniqueDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/Divide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/DuplicateNumberInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/EliminationGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/EscapeTheGhosts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/ExcelSheetColumnNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/FairCandySwap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/Find132pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/FindDisappearedNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/FruitIntoBaskets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/GlobalandLocalInversions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/H_IndexII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/IntegertoEnglishWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/JudgeSquareSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/LargestPalindromeProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/LargestTimeforGivenDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/LeadingZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/LemonadeChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/MaximumSwap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/MinMoves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/MinMoves2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/MirrorReflection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/ModForPowerOfTwoReduceOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/MyAtoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/NextPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/NimGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/NthDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/NumberOfDigitOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/OptimalDivision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/PasscalTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/PlusOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/PoorPigs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/Pow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/PowerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/PowerfulIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/PreimageSizeofFactorialZeroesFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/ReachaNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/ReconstructOriginalDigitsfromEnglish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/ReorderedPowerof2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/Rho.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/RotateFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/RotateString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/RotatedDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/SingleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/SingleNumberII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/SingleNumberIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/SolveTheEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/Sqrt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/StoneGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/StudentAttendanceRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/StudentAttendanceRecordII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/SubarrayProductLessThanK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/Sum3Closest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/Sum3WithMultiplicity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/SumII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/SummaryRanges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/SuperPow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/ThirdMaximumNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/ThreeEqualParts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/TrailingZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/UTransfer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/UglyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/ValidNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/WaterandJugProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/XofaKindinaDeckofCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Math/rectInOnenngrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/NULL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/NumberTheory/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/NumberTheory/Prime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/PostSum/ShiftingLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/PreSum/BinarySubarraysWithSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/PreSum/CountofRangeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/PreSum/NumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/PreSum/ShortestSubarraywithSumatLeastK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/PriorityQueue/BinaryHeapPriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/PriorityQueue/CheapestFlightsWithinKStops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/PriorityQueue/FindKthSmallestPairDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/PriorityQueue/Frequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/PriorityQueue/MinimumCosttoHireKWorkers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/PriorityQueue/RelativeRanks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/PriorityQueue/ReorganizeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/QuadTree/ConstructQuadTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Queue/BackspaceCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Queue/CBTInserter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Queue/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Queue/NumberofRecentCalls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Queue/OnlineStockSpan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Queue/RevealCardsInIncreasingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Queue/ScoreofParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Queue/SimplifyPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Queue/SumofSubarrayMinimums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Random/ImplementRand10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Random/MyRandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Random/RandomFlipMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Random/RandomPickIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Random/RandomPickwithBlacklist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Random/RandomPickwithWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Random/RandomPointinNonoverlappingRectangles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Random/ReservoirSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Random/ShuffeAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Recursive/CrossingRiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Recursive/HanoiTower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Recursive/LongestSubstringwithAtLeastKRepeatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Recursive/ValidSudoku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/SegmentTree/MergeIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/SlidingWindow/LongestRepeatingCharacterReplacement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/SlidingWindow/MinimumSizeSubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/SlidingWindow/MinimumWindowSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/SlidingWindow/PermutationinString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/SlidingWindow/SlidingWindowMaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/SlidingWindow/SlidingWindowMedian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/SnowFlakeIdWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/SortP/HandofStraights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/SortP/KthLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/SortP/KthLargestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/SortP/MedianofTwoSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/SortP/MergeSortGeneric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/SortP/MinimumTimeDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/SortP/QueueReconstructionbyHeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/SortP/RussianDollEnvelopes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/SortP/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/SortP/WiggleSortII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Stack/MaximumWidthRamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Stack/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Stack/MonotoneStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Stack/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Stack/ValidBracket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/AllSubstrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/AnagramsGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/BuddyStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/CompareVersion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/CustomSortString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/DecodeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/DeleteColumnstoMakeSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/DeleteColumnstoMakeSortedII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/DeleteOperationforTwoStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/DetectCapital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/EvaluateReversePolishNotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/FindAllAnagramsInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/FindAndReplaceinString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/FindDuplicateFileinSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/FindandReplacePattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/FindtheClosestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/FirstBadVersion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/GenerateIpString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/GoatLatin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/JudgeRouteCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/KMP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/KeyboardRow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/LargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/LetterCasePermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/LicenseKeyFormatting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/LongPressedName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/LongestAbsoluteFilePath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/LongestPalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/LongestUncommonSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/LongestUncommonSubsequenceII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/LongestWordinDictionarythroughDeleting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/MagicDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/MagicalString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/MaskingPersonalInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/Morse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/PositionsofLargeGroups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/RansomNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/RemoveComments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/RemoveDuplicateLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/RemoveKDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/ReorderLogFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/RepeatedDNASequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/RepeatedStringMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/RepeatedSubstringPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/RestoreIPAddresses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/ReverseInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/ReverseOnlyLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/ReverseVowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/ReverseWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/RightShift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/RomanToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/ScrambleString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/ShortestDistancetoaCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/ShortestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/SpecialBinaryString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/StrStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/StringCompression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/StringMultiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/StringOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/StrongPasswordChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/SuperPalindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/ToLowerCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/UncommonWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/UniqueEmailAddresses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/UniqueLetterString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/ValidPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/ValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/ValidateIPAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/VerifyinganAlienDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/WordLadder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/WordSubsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/String/ZigZag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/AVLTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/AddOneRowtoTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/AllNodesDistanceKinBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/AllPossibleFullBinaryTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/BSTSerializeandDeserialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/BinaryTreeCameras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/BinaryTreePruning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/BinaryTreeSerializeandDeserialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/BinaryTreeTilt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/BinaryTreeUpsideDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/BinaryTreesWithFactors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/BinaryWatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/CheckCompletenessofaBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/ConstructBinaryTreefromPreorderandPostorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/ConvertBinaryToDoubleLinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/CountUnivalueSubtrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/CountofSmallerNumbersAfterSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/DistributeCoinsinBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/FindDuplicateSubtrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/FindModeInBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/FlattenBinaryTreetoLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/FlipEquivalentBinaryTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/HuffmanTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/IncreasingOrderSearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/LeftLeaningRB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/MaximumBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/MaximumWidthofBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/MaximumXOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/MostFrequentSubtreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/NTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/PrintBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/RangeSumofBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/RedBlackTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/ReversePairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/TreeLink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/TreeLinkNodeII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/UniqueBinarySearchTreesII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/UnivaluedBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/VerifyPreorderSerializationofaBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TrieAlg/ConcatenatedWordsII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TrieAlg/LongestWordInDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TrieAlg/MapSumPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TrieAlg/PrefixandSuffixSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TrieAlg/ReplaceWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TrieAlg/ShortEncodingofWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TrieAlg/ShortEncodingofWordsII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TrieAlg/SmallestSubtreewithalltheDeepestNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TrieAlg/Trie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TrieAlg/VowelSpellchecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TwoPointer/BeautifulArrangementII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TwoPointer/DIStringMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TwoPointer/DailyTemperatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TwoPointer/FindtheDuplicateNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TwoPointer/GenerateParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TwoPointer/IncreasingTripletSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TwoPointer/IsOneBitCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TwoPointer/IsPerfectSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TwoPointer/IsSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TwoPointer/LargestNumberAtLeastTwiceofOthers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TwoPointer/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TwoPointer/MergeTwoSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TwoPointer/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TwoPointer/SquaresofaSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/TwoPointer/ValidateStackSequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/UnionFindD/AccountsMerge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/UnionFindD/BricksFallingWhenHit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/UnionFindD/CouplesHoldingHands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/UnionFindD/DisjointSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/UnionFindD/EvaluateDivision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/UnionFindD/FriendCircles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/UnionFindD/LargestComponentSizebyCommonFactor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/UnionFindD/MakingALargeIsland.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/UnionFindD/MinimizeMalwareSpread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/UnionFindD/MostStonesRemovedwithSameRoworColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/UnionFindD/RedundantConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/UnionFindD/RedundantConnectionII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/UnionFindD/UnionFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/UnionFindD/UnionFindII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/InitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hui/Tree/LCS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/AVLTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/AccountsMerge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/AddBinary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/AddDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/AddOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/AddOneRowtoTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/AddStrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/AdditiveNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/AllNodesDistanceKinBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/AllPathsFromSourcetoTarget.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/AllPossibleFullBinaryTrees.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/AllSubstrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Anagram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/AnagramsGroup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ArithmeticSlices.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ArithmeticSlicesIISubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ArrangingCoins.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ArrayPairSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ArrayofDoubledPairs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/AssignCookies.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BItCount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BSTSerializeandDeserialize.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BackspaceCompare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BagofTokens.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Base64.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Base7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BaseballGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BasicCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BasicCalculatorII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BattleshipsinaBoard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BeautifulArrangement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BeautifulArrangementII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BeautifulArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BestTimetoBuyandSellStock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BestTimetoBuyandSellStockII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BestTimetoBuyandSellStockIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BestTimetoBuyandSellStockIV.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BestTimetoBuyandSellStockwithCooldown.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BestTimetoBuyandSellStockwithTransactionFee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BinaryHeap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BinaryHeapPriorityQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BinarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BinarySearchTreeIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BinarySubarraysWithSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BinaryTreeCameras.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BinaryTreePruning.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BinaryTreeSerializeandDeserialize.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BinaryTreeTilt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BinaryTreeUpsideDown.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BinaryTreesWithFactors.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BinaryWatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BitSetDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BitUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BitwiseORsofSubarrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BoatstoSavePeople.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BrickWall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BricksFallingWhenHit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BuddyStrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BulbSwitcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BulbSwitcherII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BullsandCows.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BurstBalloons.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/BytesUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CBTInserter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CalculateConflictRate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CalculateConflictRate2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CanIWin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CanPlaceFlowers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Candy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CatandMouse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CheapestFlightsWithinKStops.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CheckCompletenessofaBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CircularArrayLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CloneGraph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CoinChange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CoinChange2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CombinationSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CombinationSumII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CombinationSumIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CombinationSumIV.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Combinations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CompareVersion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ComplexNumberMultiplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ConcatString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ConcatenatedWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ConcatenatedWordsII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ConcurrentCache.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ConsecutiveNumbersSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ConsistentHash.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ConstructBinaryTreefromPreorderandPostorderTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ConstructQuadTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ConstructtheRectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ContainVirus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ContainerWithMostWater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ContainsDuplicate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ContainsDuplicateII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ContainsDuplicateIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ContiguousArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ContinuousSubarraySum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ConvertBinaryToDoubleLinkList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CopyRandomListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CountAndSay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CountBinarySubstrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CountNumberswithUniqueDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CountPrimeSetBits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CountUnivalueSubtrees.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CountofRangeSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CountofSmallerNumbersAfterSelf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CouplesHoldingHands.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CourseSchedule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CourseScheduleII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CourseScheduleIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CreateMaximumNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CrossingRiver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CustomSortString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/CutPod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/DIStringMatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/DailyTemperatures.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/DecodeString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/DecodeWays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/DecodeWaysII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/DegreeOfAnArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/DeleteColumnstoMakeSorted.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/DeleteColumnstoMakeSortedII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/DeleteDuplicateNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/DeleteOperationforTwoStrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/DesignCircularDeque.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/DesignCircularDeque2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/DesignCircularQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/DetectCapital.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/DiagonalTraverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/DifferentWaystoAddParentheses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/DisjointSets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/DistributeCandies.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/DistributeCoinsinBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Divide.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/DominoandTrominoTiling.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/DoubleCircleList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/DuplicateNumberInArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/EditDistance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/EliminationGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/EmployeeImportance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/EncodeandDecodeTinyURL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/EscapeTheGhosts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/EvaluateDivision.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/EvaluateReversePolishNotation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ExamRoom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Example.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ExcelSheetColumnNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ExpressionAddOperators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ExpressiveWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ExpressiveWordsII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FairCandySwap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Fib.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FibHeap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Find132pattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindAllAnagramsInAString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindAndReplaceinString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindDisappearedNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindDuplicateFileinSystem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindDuplicateSubtrees.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindDuplicates.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindEventualSafeStates.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindFirstCommonNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindKClosestElements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindKPairswithSmallestSums.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindK_th_Smallest_inLexicographicalOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindKthSmallestPairDistance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindMaxAverage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindMaxConsecutiveOnes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindMedianfromDataStream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindMinimuminRotatedSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindMinimuminRotatedSortedArrayII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindModeInBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindPeakElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindSmallestLetterGreaterThanTarget.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindTheDifference.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindandReplacePattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindtheClosestPalindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FindtheDuplicateNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FirstBadVersion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FirstMissingPositive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FirstUniqChar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FizzBuzz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FlattenBinaryTreetoLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FlipAndInvertImage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FlipEquivalentBinaryTrees.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FlipStringtoMonotoneIncreasing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FloodFill.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FractiontoRecurringDecimal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Frequency.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FrequencySort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FriendCircles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/FruitIntoBaskets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/GameofLife.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/GasStation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/GenerateIpString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/GenerateParentheses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/GenerateRandomPointinaCircle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/GeoPoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/GetMostGifts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/GlobalandLocalInversions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/GoatLatin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Graph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/GrayCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/GroupsofSpecialEquivalentStrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/GuessNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/GuessNumberHigherorLowerII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/GuesstheWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/H_Index.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/H_IndexII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/HamiltonianCycle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/HammingDistance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/HandofStraights.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/HanoiTower.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/HappyNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/HashFunction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/HashFunctions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Heaters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/HouseRobber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/HouseRobberII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/HouseRobberIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/HuffmanTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ImageOverlap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ImageSmoother.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ImplementRand10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/IncreasingOrderSearchTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/IncreasingSubsequences.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/IncreasingTripletSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/InsertInterval.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/IntegerBreak.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/IntegerReplacement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/IntegertoEnglishWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/InterleavingString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/IntersectionofTwoArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/IsGraphBipartite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/IsOneBitCharacter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/IsPerfectSquare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/IsSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/IslandPerimeter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Isomorphic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/JudgeRouteCircle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/JudgeSquareSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/JumpGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/JumpGameII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/KInversePairsArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/KMP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/KSimilarStrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/KdiffPairsinanArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/KeyboardRow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/KeysandRooms.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Knapsack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/KthLargest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/KthLargestElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/KthSmallestElementinaSortedMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LFUCache.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LRUCache.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LRUCache2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LRUCache3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LargestComponentSizebyCommonFactor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LargestDivisibleSubset.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LargestNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LargestNumberAtLeastTwiceofOthers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LargestPalindromeProduct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LargestPerimeterTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LargestRectangleinHistogram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LargestSumofAverages.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LargestTimeforGivenDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LargestTriangleArea.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LeadingZeros.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LeftLeaningRB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LemonadeChange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LengthOfLastWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LengthOfLongestSubstring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LengthofLongestFibonacciSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LetterCasePermutation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LetterCombinationsofaPhoneNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LexicographicalNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LicenseKeyFormatting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LinkListBubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LinkedListComponents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LinkedListRandomNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LongPressedName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LongestAbsoluteFilePath.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LongestCommonPrefix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LongestCommonSubString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LongestCommonSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LongestConsecutiveSequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LongestContinuousIncreasingSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LongestHarmoniousSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LongestIncreasingPathinaMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LongestIncreasingSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LongestMountaininArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LongestPalindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LongestPalindromicSubstring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LongestRepeatingCharacterReplacement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LongestSubstringWithoutRepeatingCharacters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LongestSubstringwithAtLeastKRepeatingCharacters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LongestTurbulentSubarray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LongestUncommonSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LongestUncommonSubsequenceII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LongestValidParentheses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LongestWordInDictionary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LongestWordinDictionarythroughDeleting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/LoudandRich.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MagicDictionary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MagicSquaresInGrid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MagicalString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MajorityElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MajorityElementII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MakingALargeIsland.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MapSumPairs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MaskingPersonalInformation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MatchstickstoSquare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Matrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Matrix01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MaxAreaofIsland.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MaxChunksToMakeSorted.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MaxChunksToMakeSortedII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MaxIncreasetoKeepCitySkyline.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MaxPointsonaLine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MaxSubArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MaximalRectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MaximalSquare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MaximizeDistancetoClosestPerson.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MaximumBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MaximumGap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MaximumLengthofPairChain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MaximumLengthofRepeatedSubarray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MaximumProduct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MaximumProductSubarray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MaximumProductofWordLengths.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MaximumSumCircularSubarray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MaximumSwap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MaximumWidthRamp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MaximumWidthofBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MaximumXOR.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Maze.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MedianofTwoSortedArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MeetingRoomsII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Meetingrooms.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MergeIntervals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MergeKLists.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MergeSortGeneric.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MergeTwoSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MinCostClimbingStairs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MinHeap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MinMoves.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MinMoves2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MinStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Minesweeper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MinimizeMalwareSpread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MinimizeMalwareSpreadII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MinimumAddtoMakeParenthesesValid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MinimumAreaRectangleII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MinimumCosttoHireKWorkers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MinimumFallingPathSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MinimumHeightTrees.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MinimumHeightTrees2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MinimumIncrementtoMakeArrayUnique.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MinimumIndexSumofTwoLists.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MinimumNumberofArrowstoBurstBalloons.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MinimumPathSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MinimumSizeSubarraySum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MinimumTimeDifference.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MinimumWindowSubstring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MiningGold.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MirrorReflection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MissingNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ModForPowerOfTwoReduceOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MonotoneIncreasingDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MonotoneStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MonotonicArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Morse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MostCommonWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MostFrequentSubtreeSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MostProfitAssigningWork.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MostStonesRemovedwithSameRoworColumn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MountainArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MoveArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MoveZeros.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MyAtoi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MyCalendarI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MyCalendarII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MyCalendarIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MyHashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MyHashSet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MyLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MyQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MyRandom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/MyStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NQueens.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NQueensII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NRepeatedElementinSize2NArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NULL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NetworkDelayTime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NextGreaterElementI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NextGreaterElementII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NextGreaterElementIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NextPermutation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NimGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NondecreasingArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NonnegativeIntegerswithoutConsecutiveOnes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NonoverlappingIntervals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NthDigit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NumArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NumSquares.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NumberComplement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NumberOfDigitOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NumberofAtoms.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NumberofBoomerangs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NumberofIslands.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NumberofLinesToWriteString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NumberofLongestIncreasingSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NumberofMatchingSubsequences.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NumberofRecentCalls.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NumberofSubarrayswithBoundedMaximum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/NumbersWithSameConsecutiveDifferences.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/OnesandZeroes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/OnlineStockSpan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/OptimalDivision.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PacificAtlanticWaterFlow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PaintHouse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PaintHouseII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Palindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PalindromePairs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PalindromePartitioning.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PalindromePartitioningII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Palindrome_min_insert_char.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PalindromicLongestSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PalindromicSubstrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PartitionArrayintoDisjointIntervals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PartitionEqualSubsetSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PartitionLabels.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PartitiontoKEqualSumSubsets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Pascal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PasscalTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PatchingArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PathInTheMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PeekingIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PerfectNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PerfectRectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PerfectSquares.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PermutationSequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PermutationinString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Permutations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PermutationsII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PivotIndex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PlusOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PoorPigs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PositionsofLargeGroups.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PossibleBipartition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Pow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PowerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PowerfulIntegers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PrefixandSuffixSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PreimageSizeofFactorialZeroesFunction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Prime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/PrintBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ProductofArrayExceptSelf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ProfitableSchemes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ProjectionArea3DShapes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/QueueReconstructionbyHeight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RabbitsinForest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RandomFlipMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RandomPickIndex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RandomPickwithBlacklist.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RandomPickwithWeight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RandomPointinNonoverlappingRectangles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RangeAdditionII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RangeBitwiseAnd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RangeSumofBST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RansomNote.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ReachaNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ReachableNodesInSubdividedGraph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ReconstructOriginalDigitsfromEnglish.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RectangleArea.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RectangleOverlap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RedBlackTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RedundantConnection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RedundantConnectionII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RegionsCutBySlashes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RegularExpressionMatching.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RelativeRanks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RemoveBoxes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RemoveComments.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RemoveDuplicateLetters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RemoveDuplicates.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RemoveDuplicatesfromSortedArrayII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RemoveElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RemoveInvalidParentheses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RemoveKDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ReorderLogFiles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ReorderedPowerof2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ReorganizeString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RepeatedDNASequences.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RepeatedStringMatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RepeatedSubstringPattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ReplaceWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ReservoirSample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ReshapeTheMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RestoreIPAddresses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RevealCardsInIncreasingOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ReverseInt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ReverseNodesinkGroup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ReverseOnlyLetters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ReversePairs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ReverseString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ReverseVowels.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ReverseWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Rho.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RightShift.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RomanToInt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Rotate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RotateArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RotateFunction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RotateString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RotatedDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/RussianDollEnvelopes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ScoreAfterFlippingMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ScoreofParentheses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ScrambleString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SearchRange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Searcha2DMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Searcha2DMatrixII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SearchinRotatedSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SearchinRotatedSortedArrayII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SecondMinimumNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SelfCrossing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SetMatrixZeroes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SetMismatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ShiftingLetters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ShoppingOffers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ShortEncodingofWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ShortEncodingofWordsII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ShortestBridge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ShortestCompletingWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ShortestDistancetoaCharacter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ShortestPalindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ShortestPathVisitingAllNodes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ShortestSubarraywithSumatLeastK.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ShortestUnsortedContinuousSubarray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ShuffeAnArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SimHash.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SimplifyPath.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SingleElementinaSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SingleNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SingleNumberII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SingleNumberIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SipHashTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SipHash_2_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SlidingWindowMaximum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SlidingWindowMedian.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SmallestGoodBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SmallestRangeI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SmallestRangeII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SmallestSubtreewithalltheDeepestNodes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SnowFlakeIdWorker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SolveTheEquation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Sort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SortArrayByParity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SortArrayByParityII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SortColors.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SoupServings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SpecialBinaryString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SpiralMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SpiralMatrixII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SpiralMatrixIII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SplitArrayLargestSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SplitArrayWithSameAverage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SplitArrayintoConsecutiveSubsequences.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SplitArrayintoFibonacciSequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SplitListToParts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SplitNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Sqrt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SquaresofaSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/StickerstoSpellWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/StoneGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/StrStr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/StrangePrinter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/StringCompression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/StringMultiply.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/StringOperation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/StrongPasswordChecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/StudentAttendanceRecord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/StudentAttendanceRecordII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SubSets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SubarrayProductLessThanK.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SubarraySumEqualsK.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SubsetSumProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SubsetsII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SubstringwithConcatenationofAllWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SudokuSolver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Sum3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Sum3Closest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Sum3WithMultiplicity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Sum4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SumII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SumOfTwoIntegers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SummaryRanges.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SumofDistancesinTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SumofSubarrayMinimums.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SumofSubsequenceWidths.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SuperPalindromes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SuperPow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SurfaceAreaof3DShapes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SurroundedRegions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/SwiminRisingWater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/TallestBillboard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/TargetSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/TaskScheduler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/TeemoAttacking.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/TestLimited.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/TestLimited2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/TextJustification.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ThirdMaximumNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ThreeEqualParts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ThreeSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Tile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ToLowerCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ToeplitzMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/TopKFrequent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/TopKFrequentElements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/TopVotedCandidate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/TopVotedCandidate2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/TrailingZeroes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/TransposeMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/TrappingRainWater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/TrappingRainWaterII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/TreeLink.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/TreeLinkNodeII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/TriangleDynamic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Trie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/Twitter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/TwoSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/TwoSumII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/UTF_8Validation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/UTransfer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/UglyNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/UncommonWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/UnionFind.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/UnionFindII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/UniqueBinarySearchTrees.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/UniqueBinarySearchTreesII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/UniqueEmailAddresses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/UniqueLetterString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/UniquePaths.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/UniquePathsII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/UniqueSubstringsinWraparoundString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/UnivaluedBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ValidBracket.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ValidMountainArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ValidNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ValidPalindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ValidParentheses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ValidParenthesisString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ValidSquare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ValidSudoku.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ValidTriangleNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ValidateIPAddress.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ValidateStackSequences.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/VerifyPreorderSerializationofaBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/VerifyinganAlienDictionary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/VowelSpellchecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/WalkingRobot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/WalkingRobotSimulation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/WaterandJugProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/WiggleSortII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/WiggleSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/WildcardMatching.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/WordBreak.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/WordBreakII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/WordDictionary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/WordLadder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/WordLadderII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/WordPattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/WordSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/WordSearchII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/WordSubsets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/XOR.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/XofaKindinaDeckofCards.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ZigZag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/ZigZagPrintMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/numJewelsInStones.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/rectInOnenngrid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/algorithm/subdomainVisits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hui/Hash/SipHash_2_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hui/Hash/SipHash_2_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hui/algorithm/dd.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -1392,44 +31,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/SnowFlakeIdWorker.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/DesignProblems/LRUCache3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+            <state relative-caret-position="247">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/WordLadderII.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/DesignProblems/LFUCache.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
+            <state relative-caret-position="19">
+              <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/Tree/BinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="3435" lean-forward="true" selection-start-line="3422" selection-start-column="6" selection-end-line="3435" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/InitDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="59" lean-forward="true" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/LinkedList/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3973">
+              <caret line="488" column="27" lean-forward="true" selection-start-line="488" selection-start-column="27" selection-end-line="488" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/LinkedList/SplitListToParts.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-75">
               <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/HashMap/WordPattern.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/BackTracking/WordSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/BackTracking/WordSearchII.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/LinkedList/CopyRandomListNode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
@@ -1438,25 +95,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/String/WordSubsets.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/Math/XofaKindinaDeckofCards.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/BitOperation/XOR.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/LinkedList/DeleteDuplicateNode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
@@ -1465,19 +104,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/String/ZigZag.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/LinkedList/FindFirstCommonNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            <state relative-caret-position="435">
+              <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/Array/ZigZagPrintMatrix.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/Tree/LCS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="228">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -1497,10 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/hui/Math/TrailingZeroes.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hui/Array/TransposeMatrix.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/TrappingRainWater.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hui/Tree/TreeLink.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hui/Tree/TreeLinkNodeII.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hui/Math/Triangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hui/DFS/TriangleDynamic.java" />
@@ -1548,6 +183,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hui/BitOperation/XOR.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hui/String/ZigZag.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hui/Array/ZigZagPrintMatrix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/Hash/SipHash_2_4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/InitDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/LinkedList/LCS.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hui/Tree/LCS.java" />
       </list>
     </option>
   </component>
@@ -1574,10 +213,10 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1956" />
-    <option name="y" value="66" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="882" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -1585,8 +224,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1622,6 +259,24 @@
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hui" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hui" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -1632,18 +287,20 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552012615907" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552442953352" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zookeeperdemo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -1665,9 +322,51 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.LCS">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InitDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hui.InitDemo" />
+      <module name="algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LCS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hui.Tree.LCS" />
+      <module name="algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hui.Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnowFlakeIdWorker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hui.SnowFlakeIdWorker" />
+      <module name="algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -1722,6 +421,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LCS" />
+        <item itemvalue="Application.InitDemo" />
+        <item itemvalue="Application.SnowFlakeIdWorker" />
         <item itemvalue="Application.dd" />
       </list>
     </recent_temporary>
@@ -1737,12 +439,18 @@
       <option name="presentableId" value="Default" />
       <updated>1551970580822</updated>
       <workItem from="1551970582627" duration="6418000" />
-      <workItem from="1552006990684" duration="6747000" />
+      <workItem from="1552006990684" duration="9320000" />
+      <workItem from="1552040452219" duration="675000" />
+      <workItem from="1552112725049" duration="69000" />
+      <workItem from="1552124517725" duration="30000" />
+      <workItem from="1552137213106" duration="163000" />
+      <workItem from="1552439216322" duration="576000" />
+      <workItem from="1552439930108" duration="2513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13165000" />
+    <option name="totallyTimeSpent" value="19764000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1765,7 +473,7 @@
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962137" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.033407573" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4599109" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1773,7 +481,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.43338212" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.43255132" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Palette" order="0" />
@@ -1786,7 +494,7 @@
       <window_info anchor="right" id="Commander" order="7" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="10" visible="true" weight="0.3001066" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="10" visible="true" weight="0.18283582" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1797,118 +505,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/Tree/TreeLink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/Tree/TreeLinkNodeII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/Math/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/DFS/TriangleDynamic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/TrieAlg/Trie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/DesignProblems/Twitter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1845">
-          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/Array/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/Array/TwoSumII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/Math/UglyNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/String/UncommonWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/UniqueBinarySearchTrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/Tree/UniqueBinarySearchTreesII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/String/UniqueEmailAddresses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/String/UniqueLetterString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/UniquePaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/UniquePathsII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/UniqueSubstringsinWraparoundString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
@@ -2086,57 +682,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/DynamicPrograming/WordLadderII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
+        <state relative-caret-position="893">
           <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/HashMap/WordPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/BackTracking/WordSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/BackTracking/WordSearchII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/String/WordSubsets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/Math/XofaKindinaDeckofCards.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/BitOperation/XOR.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/String/ZigZag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-219" />
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -2147,10 +702,164 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/String/ZigZag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/BitOperation/XOR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/Math/XofaKindinaDeckofCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/String/WordSubsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/BackTracking/WordSearchII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/BackTracking/WordSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/HashMap/WordPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/Hash/SipHash_2_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/SnowFlakeIdWorker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+        <state relative-caret-position="2261">
+          <caret line="119" column="5" selection-start-line="119" selection-start-column="5" selection-end-line="119" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/BinarySearch/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/DesignProblems/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/DesignProblems/LRUCache2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/DesignProblems/LRUCache3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/DesignProblems/LFUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/LinkedList/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3973">
+          <caret line="488" column="27" lean-forward="true" selection-start-line="488" selection-start-column="27" selection-end-line="488" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/LinkedList/SplitListToParts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/LinkedList/CopyRandomListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/LinkedList/DeleteDuplicateNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/LinkedList/FindFirstCommonNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/Tree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="3435" lean-forward="true" selection-start-line="3422" selection-start-column="6" selection-end-line="3435" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/InitDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="59" lean-forward="true" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hui/Tree/LCS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>

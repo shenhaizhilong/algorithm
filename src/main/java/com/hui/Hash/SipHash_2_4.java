@@ -3,9 +3,8 @@ package com.hui.Hash;
 //@formatter:off
 
 import com.hui.BitOperation.BytesUtil;
-
-import static algorithm.BytesUtil.bytesLEtoLong;
-import static algorithm.BytesUtil.longToBytes;
+import static com.hui.BitOperation.BytesUtil.bytesLEtoLong;
+import static com.hui.BitOperation.BytesUtil.longToBytes;
 
 /**
  * SipHash_2_4 -- This is a streaming implementation of https://131002.net/siphash/<br>
