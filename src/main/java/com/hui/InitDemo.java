@@ -9,6 +9,8 @@ public class InitDemo {
 
     public InitDemo(int b)
     {
+
+        // this.b ? 求b 的值
         System.out.println("this is init block:" + this.b);
 
         this.b = b;
@@ -16,6 +18,7 @@ public class InitDemo {
     }
 
     {
+        // this.b ? 求b 的值
         System.out.println("this is code block:" + b);
         this.b = 3;
     }
