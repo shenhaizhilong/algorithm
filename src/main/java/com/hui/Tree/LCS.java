@@ -5,6 +5,14 @@ package com.hui.Tree;
  * @date: 2019/3/13 9:51
  *
  * 寻找二叉树P 节点与 Q 节点的最低公共祖先
+ *
+ *  方法一： 自底向上，回溯法
+ *  方法二： 自底向上，建立两个单链表；
+ *  例如： p -> pp -> ppp -> ..>common->.. Root
+ *         Q -> QQ -> QQQ -> .>common->.. Root
+ *
+ *         问题转化为求两个单链表的第一个相交节点： 算法：com.hui.linkedlist ->  FindFirstCommonNode
+ *
  */
 public class LCS {
 
